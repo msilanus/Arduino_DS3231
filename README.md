@@ -13,7 +13,7 @@ Le but du programme est de fournir une solution pour configurer la RTC DS3231 en
 Dans les deux cas, la transmission se termine par un retour à la ligne '\n'
 
 
-## Remarque  :##
+## Remarque  : ##
 
 ### le timestamp c'est quoi ? ###
 Le timestamp (unix) désigne le nombre de secondes écoulées depuis le 1er janvier 1970 à minuit UTC précise. Les avantages sont multiples :
